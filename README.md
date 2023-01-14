@@ -1,3 +1,4 @@
+<img src ="banner.jpg">
 <h1 align="center">Hi 👋, I'm CLOWN</h1>
 <h3 align="center">A Frontend Developer From Tunisia</h3>
 
